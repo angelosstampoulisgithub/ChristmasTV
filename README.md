@@ -2,5 +2,8 @@
 I made this Apple TV app in SwiftUI with a lot of techniques animation,particle effect,gradient color etc
 
 
-https://github.com/user-attachments/assets/5a54d04f-56e7-451a-a461-d7de03cb13bc
+
+https://github.com/user-attachments/assets/7cdd1fd6-b7d1-404a-9b13-c37d503bbf2b
+
+
 
