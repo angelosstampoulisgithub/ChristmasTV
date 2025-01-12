@@ -17,12 +17,12 @@ struct ContentView: View {
                 }
             Chirstmas(index: 0)
                 .tabItem {
-                    Image("resume")
+                    Image("folder")
                     Text("Χριστούγεννα")
             }
             Multimedia(scene: .init())
                 .tabItem {
-                    Image("multimedia")
+                    Image("media")
                     Text("Πολυμέσα")
             }
             Traditions(index: 0)
